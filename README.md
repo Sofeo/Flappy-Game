@@ -1,2 +1,2 @@
 # Flappy-Game
-a flappy bird clone
+a repo for my flappy bird game
